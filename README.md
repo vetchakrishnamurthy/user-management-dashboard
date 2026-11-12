@@ -29,7 +29,7 @@ A simple and interactive User Management Dashboard built using React and Vite. T
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/vetchakrishnamurthy/user-management-dashboard.git
 ```
 
 **2. Navigate to the project folder**
