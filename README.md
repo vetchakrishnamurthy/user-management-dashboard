@@ -35,7 +35,7 @@ git clone YOUR_REPOSITORY_URL
 **2. Navigate to the project folder**
 
 ```bash
-cd user-management-dashboard
+cd usermanagementdashboard
 ```
 
 **3. Install dependencies**
